@@ -124,12 +124,3 @@
 }
 
 /* Tailwind CSS Classes */
-.title-header {
-    font-family: 'Nantes-LightItalic';
-}
-
-.name {
-    /* font-family: 'Neue Haas Unica W1G'; */
-    font-weight: bold;
-    font-style: italic;
-}
